@@ -1,0 +1,12 @@
+body{
+    margin: 0 auto;
+    width: 1024px;
+}
+div{
+    font-size: 50px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin: 50px auto 0 auto;
+    width: 30vmin;
+    height: 70vmax;
+}
